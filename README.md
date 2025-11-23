@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gahan Girdhar
 ======================================================================================================================================
 
-’m a Computer Science undergraduate at Thapar Institute of Engineering and Technology, passionate about full-stack development, machine learning, and building scalable systems. I love working on impactful projects—whether it’s a MERN-based platform, an ML model.
+I’m a Computer Science undergraduate at Thapar Institute of Engineering and Technology, passionate about full-stack development, machine learning, and building scalable systems. I love working on impactful projects—whether it’s a MERN-based platform, an ML model.
 
 🚀 What I Do
 
